@@ -5,9 +5,10 @@ Materiales para el webinar celebrado el 17 de febrero de 2021 dentro del ciclo d
 El objetivo de esta charla/taller es introducir los conceptos de Big Data, analítica de datos y aprendizaje automático desde cero.
 
 Materiales:
-* notebooks: cuadernos de Jupyter con el código de las distintas demostraciones
+* Transparencias de la presentación en formato PDF
+* [notebooks](https://github.com/d-tomas/workshops/blob/main/20210217/notebooks/): cuadernos de Jupyter con el código de las distintas demostraciones
   * Introducción a Colab
   * Estadísticas descriptivas
   * Visualización
   * Aprendizaje automático
-* datasets: datos de ejemplo utilizados en el cuadernos mencionados
+* [datasets](https://github.com/d-tomas/workshops/blob/main/20210217/datasets/): datos de ejemplo utilizados en el cuadernos mencionados
