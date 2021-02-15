@@ -11,4 +11,4 @@ Materiales:
   * Estadísticas descriptivas
   * Visualización
   * Aprendizaje automático
-* [datasets](https://github.com/d-tomas/workshops/blob/main/20210217/datasets/): datos de ejemplo utilizados en el cuadernos mencionados
+* [datasets](https://github.com/d-tomas/workshops/blob/main/20210217/datasets/): datos de ejemplo utilizados en los cuadernos
