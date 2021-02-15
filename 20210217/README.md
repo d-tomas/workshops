@@ -6,8 +6,8 @@ El objetivo de esta charla/taller es introducir los conceptos de Big Data, anal�
 
 Materiales:
 * notebooks: cuadernos de Jupyter con el código de las distintas demostraciones
- * Introducción a Colab
- * Estadísticas descriptivas
- * Visualización
- * Aprendizaje automático
+  * Introducción a Colab
+  * Estadísticas descriptivas
+  * Visualización
+  * Aprendizaje automático
 * datasets: datos de ejemplo utilizados en el cuadernos mencionados
