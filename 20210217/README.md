@@ -1,6 +1,6 @@
 # Introducción a la extracción de conocimiento a partir de Big Data
 
-Materiales para el webinar celebrado el 17 de febrero de 2021 dentro del ciclo de actividades de la red de Cátedras Telefónica.
+Materiales para el webinar celebrado el *17 de febrero de 2021* dentro del ciclo de actividades de la red de *Cátedras Telefónica*.
 
 El objetivo de esta charla/taller es introducir los conceptos de Big Data, analítica de datos y aprendizaje automático desde cero.
 
