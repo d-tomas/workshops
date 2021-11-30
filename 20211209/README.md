@@ -1,16 +1,5 @@
-Minería de datos y visualización
+# Natural Language Processing in the Post Covid-19 World
 
-Materiales para el taller celebrado el 25 de marzo de 2021 dentro de las actividades del Datathon 2021: Retos en un mundo postCOVID organizado por la Cátedra de Transparencia y Gestión de Datos de la Universitat Politècnica de València.
+Notebook and slides for the keynote speech at the First Annual Transform4Europe PhD conference (Societal Transformations and Sustainable Development with Respect to Environment in the Post Covid-19 Digital Era), 9 December 2021, Sofia (Bulgaria)
 
-El objetivo de este taller es introducir los conceptos de analítica de datos, visualización y aprendizaje automático.
-
-Materiales:
-
-    Transparencias de la presentación en formato PDF
-    notebooks: cuadernos de Jupyter con el código de las distintas demostraciones
-        Introducción a Colab
-        Estadísticas descriptivas
-        Visualización
-        Aprendizaje automático
-        Ejercicios
-    datasets: datos de ejemplo utilizados en los cuadernos
+The talk consisted in a gentle introduction to Natural Language Processing and their applications in the Post Covid era. The notebook includes several application examples of the 🤗 Transformers models (e.g. sentiment analysis, text generation, question answering...).
