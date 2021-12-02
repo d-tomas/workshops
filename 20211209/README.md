@@ -7,4 +7,4 @@ The talk consisted in a gentle introduction to Natural Language Processing and t
 Materials:
 * [Slides](https://github.com/d-tomas/workshops/blob/main/20211209/slides.pdf)
 * [Notebook](https://github.com/d-tomas/workshops/blob/main/20211209/notebook.ipynb)
-* [Video](https://github.com/d-tomas/workshops/blob/main/20211209/video.mp4)
+* [Video](https://drive.google.com/file/d/1k9R-hzzJjsRAgRMYwQwo0KvbdRXtxavl/view?usp=sharing)
